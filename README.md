@@ -11,13 +11,13 @@
 The Employee Management System is designed to manage employee information efficiently. The system allows users to perform the following operations:
 
 - **Create**: Add new employees to the database. 🆕
-- ![Screenshot 2024-08-30 015719](https://github.com/user-attachments/assets/afdb9888-8363-4564-9cd9-89a2176f58c7)
+ ![Screenshot 2024-08-30 015719](https://github.com/user-attachments/assets/afdb9888-8363-4564-9cd9-89a2176f58c7)
 
 - **Read**: View a list of employees and their details. 📋
-- ![Screenshot 2024-08-30 015733](https://github.com/user-attachments/assets/d57b6efd-13ed-425f-8694-496b01e39031)
+ ![Screenshot 2024-08-30 015733](https://github.com/user-attachments/assets/d57b6efd-13ed-425f-8694-496b01e39031)
   
 - **Update**: Modify existing employee information. ✏️
-- ![Screenshot 2024-08-30 015744](https://github.com/user-attachments/assets/1a3f6c90-b388-4c4c-8ca4-8aff8331c49b)
+ ![Screenshot 2024-08-30 015744](https://github.com/user-attachments/assets/1a3f6c90-b388-4c4c-8ca4-8aff8331c49b)
 
 - **Delete**: Remove employees from the database. ❌
 -![Screenshot 2024-08-30 015809](https://github.com/user-attachments/assets/292bfad6-5548-417c-a485-97f260e4ef30)
