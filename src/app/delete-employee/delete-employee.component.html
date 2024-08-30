@@ -1,0 +1,8 @@
+<div class="container mt-5">
+    <h2>Delete Employee</h2>
+    <div *ngIf="employee">
+      <p>Are you sure you want to delete {{ employee.name }}?</p>
+      <button (click)="deleteEmployee()" class="btn btn-danger mx-1">Delete</button>
+      <a routerLink="/" class="btn btn-secondary">Cancel</a>
+    </div>
+  </div>
